@@ -1,0 +1,4 @@
+NLP_env/
+__pycache__/
+.DS_Store
+fine_tuned_mmt/
